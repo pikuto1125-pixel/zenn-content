@@ -1,0 +1,12 @@
+title: "Playwright 実務自動化の地雷図鑑 — 「動いたのに何も起きてない」を潰す"
+summary: "実在の Web サービス 5 つを相手に、フォーム入力・公開操作・一括処理を自動化した 1 日で踏んだ地雷 25 件の実録。trusted event / UA 検出 / lazy render / custom checkbox / やったフリ検出 — チュートリアルでは出てこない「実サイトの防御」への対処を、再利用できるパターンとして整理します。"
+topics: ["playwright", "nodejs", "自動化", "テスト"]
+published: true
+price: 500
+chapters:
+  - intro
+  - trusted-events
+  - fail-closed
+  - landmine-catalog
+  - safety-design
+  - templates
